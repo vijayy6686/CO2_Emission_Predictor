@@ -1,8 +1,5 @@
 # CO₂ Emission Predictor
 
-End-to-end machine learning project to predict vehicle CO₂ emissions (g/km)
-using regression models and a Streamlit web application.
-
 🌍 CO₂ Emission Predictor
 📖 Project Overview
 
